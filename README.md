@@ -1,11 +1,11 @@
 <h1 align="center">Salut 👋, je m'appelle Jérémy</h1>
-<h3 align="center">un dévellopeur passioné origiraire de Martinique</h3>
+<h3 align="center">un développeur passioné origiraire de Martinique</h3>
 
 Actuellement:
 
-- 🔭 Je travaille sur [Chalets et caviar](https://darons-codeurs.fr/chaletsetcaviar/)
+- 🔭 Je travaille sur **Films de plein air**
 
-- 🌱 J'apprend **PHP / Symfony**
+- 🌱 J'apprend **PHP / Symfony** avec **OpenClassrooms** et **TimmXware**
 
 - 👨‍💻 Tous mes projets sont disponibles sur [jeremy-monlouis.fr](jeremy-monlouis.fr)
 
