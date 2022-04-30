@@ -21,7 +21,7 @@ https://github-readme-stats.vercel.app/api?username=jeremy-mls&show_icons=true&t
 
 ## ⚡Languages les plus utilisés
 [![Top Langs](
-https://github-readme-stats.vercel.app/api/top-langs/?username=jeremy-mls&theme=nord
+https://github-readme-stats.vercel.app/api/top-langs/?username=jeremy-mls&theme=nord&langs_count=10
 )](https://github.com/jeremy-mls)
 
 
