@@ -5,7 +5,7 @@ Actuellement:
 
 - 🔭 Je travaille sur **Films de plein air**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeremy-mls&show_icons=true&theme=nord&repo=Festival_de_plein_air)](https://jeremy-mls.github.io/Festival_de_plein_air/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeremy-mls&show_icons=true&theme=nord&repo=Festival_de_plein_air)](https://jeremymls.github.io/Festival_de_plein_air/)
 
 - 🌱 J'apprend **PHP / Symfony** en alternance avec **[OpenClassrooms](https://openclassrooms.com/fr/)** et **[TimmXware](https://timmxware.com)**
 
