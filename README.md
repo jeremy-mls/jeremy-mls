@@ -13,12 +13,12 @@ Actuellement:
 
 - 📫 Comment me joindre **contact@jeremy-monlouis.fr**
 
-## ⭐ GitHub Stats
+<!-- ## ⭐ GitHub Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremy-mls&show_icons=true&theme=material-palenight)](https://github.com/jeremy-mls)
 
 ## ⚡Languages les plus utilisés
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremy-mls&theme=nord&langs_count=10)](https://github.com/jeremy-mls)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremy-mls&theme=nord&langs_count=10)](https://github.com/jeremy-mls) -->
 
 
 ## Compétences
