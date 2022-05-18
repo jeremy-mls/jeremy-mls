@@ -1,12 +1,12 @@
 <h1 align="center">Salut 👋, je m'appelle Jérémy</h1>
-<h3 align="center">un développeur passioné origiraire de Martinique</h3>
+<h3 align="center">un développeur passionné originaire de Martinique</h3>
 
 Actuellement:
-
+<!-- À MODIFIER -->
 - 🔭 Je travaille sur **Films de plein air**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeremy-mls&show_icons=true&theme=nord&repo=Festival_de_plein_air)](https://jeremymls.github.io/Festival_de_plein_air/)
-
+<!-- ########## -->
 - 🌱 J'apprend **PHP / Symfony** en alternance avec **[OpenClassrooms](https://openclassrooms.com/fr/)** et **[TimmXware](https://timmxware.com)**
 
 - 👨‍💻 Tous mes projets sont disponibles sur [jeremy-monlouis.fr](jeremy-monlouis.fr)
@@ -15,14 +15,10 @@ Actuellement:
 
 ## ⭐ GitHub Stats
 
-[![GitHub stats](
-https://github-readme-stats.vercel.app/api?username=jeremy-mls&show_icons=true&theme=material-palenight
-)](https://github.com/jeremy-mls)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremy-mls&show_icons=true&theme=material-palenight)](https://github.com/jeremy-mls)
 
 ## ⚡Languages les plus utilisés
-[![Top Langs](
-https://github-readme-stats.vercel.app/api/top-langs/?username=jeremy-mls&theme=nord&langs_count=10
-)](https://github.com/jeremy-mls)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremy-mls&theme=nord&langs_count=10)](https://github.com/jeremy-mls)
 
 
 ## Compétences
