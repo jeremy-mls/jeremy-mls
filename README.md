@@ -3,11 +3,11 @@
 
 Actuellement:
 <!-- À MODIFIER -->
-- 🔭 Je travaille sur [**JM Projets**](http://jm-projets.fr/)
+- 🔭 Je travaille sur [**Snowtricks**](http://snowtricks.jm-projets.fr)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeremymls&show_icons=true&theme=nord&repo=blog)](http://jm-projets.fr/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeremymls&show_icons=true&theme=nord&repo=snowtricks)](http://snowtricks.jm-projets.fr)
 <!-- ########## -->
-- 🌱 J'apprend **PHP / Symfony** en alternance avec **[OpenClassrooms](https://openclassrooms.com/fr/)** et **[TimmXware](https://timmxware.com)**
+- 🌱 J'apprend **PHP / Symfony** en alternance avec **[OpenClassrooms](https://openclassrooms.com/fr/)** et **[Team X](https://teamx.fr)**
 
 - 👨‍💻 Tous mes projets sont disponibles sur [jm-projets.fr](jm-projets.fr)
 
