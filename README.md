@@ -1,25 +1,9 @@
-<h1 align="center">Salut 👋, je m'appelle Jérémy</h1>
-<h3 align="center">un développeur passionné originaire de Martinique</h3>
+<h1 align="center">Salut 👋</h1>
+<h3 align="center">je m'appelle Jérémy un développeur passionné</h3>
 
-Actuellement:
-<!-- À MODIFIER -->
-- 🔭 Je travaille sur [**To Do List**](http://todolist.jm-projets.fr)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jeremymls&show_icons=true&theme=nord&repo=todolist)](https://github.com/jeremymls/todolist)
-<!-- ########## -->
-- 🌱 J'apprend **PHP / Symfony** en alternance avec **[OpenClassrooms](https://openclassrooms.com/fr/)** et **[Team X](https://teamx.fr)**
-
-- 👨‍💻 Tous mes projets sont disponibles sur [jm-projets.fr](jm-projets.fr)
+- 👨‍💻 Quelques uns de mes projets sont disponibles sur [jm-projets.fr](jm-projets.fr)
 
 - 📫 Comment me joindre **contact@jeremy-monlouis.fr**
-
-<!-- ## ⭐ GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jeremy-mls&show_icons=true&theme=material-palenight)](https://github.com/jeremy-mls)
-
-## ⚡Languages les plus utilisés
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremy-mls&theme=nord&langs_count=10)](https://github.com/jeremy-mls) -->
-
 
 ## Compétences
 ### Langages de programmation:
